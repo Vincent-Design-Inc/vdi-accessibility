@@ -1,0 +1,32 @@
+h1 {
+    font-size: 3rem !important;
+}
+
+h2 {
+    font-size: 2rem !important;
+}
+
+h3 {
+    font-size: 1.65rem !important;
+}
+
+h4 {
+    font-size: 0.85rem !important;
+    margin-top: 2em !important;
+    margin-bottom: 0.9em !important;
+}
+
+.main-content p img {
+    padding: 1rem 0 0.5rem 0;
+}
+
+.language-mermaid > svg {
+    background-color: #ECECED !important;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+.main-content main > ul > li,
+.main-content main > ol > li {
+    margin-top: 0.8em;
+}

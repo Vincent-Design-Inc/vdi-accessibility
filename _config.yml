@@ -1,16 +1,16 @@
 layout: default
 nav_exclude: true
-title: VDI WordPress Dev Docs
-description: A place for all of the WordPress development documentation!
+title: VDI Accessibility Docs
+description: A place for all of the accessibility documentation!
 theme: just-the-docs
 color_scheme: vdi
 enable_copy_code_button: true
 
-url: https://docs.vincentdevelopment.ca
+url: https://a11y.vincentdevelopment.ca
 
 aux_links:
   Docs for this website: https://just-the-docs.com/
-  Repo: https://github.com/Vincent-Design-Inc/vdi-dev-docs
+  Repo: https://github.com/Vincent-Design-Inc/vdi-accessibility
 
 callouts:
   warning:
